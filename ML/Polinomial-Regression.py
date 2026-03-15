@@ -44,16 +44,3 @@ print("Mse: \n", mse)
 print("R-squared: \n", r2)
 
 
-# Regularization Techinics Lasso and Ridge
-"""
-* What is Regularizations?
-    * Techinique used to prevent overfitting by adding penalties term to the cost function of a regression model 
-* Types of regularizations:
-    * Ridge regression(L2 regularization)
-        * Adds the sum of the squared coefficients to the cost function
-    * Lasso Regularization:
-        * Adds the sum of the absolute coefficient to the cost function
-* Key Differences:
-    * Ridge shrinks coeffients but does not eliminate them
-    * Lasso can shrinks some coefficient to zero , removing irrelevant features                
-"""

@@ -50,7 +50,39 @@
             * Steps 
                 * Create a contengency table 
                 * Calculate expected frequencies
-                * Compute X**2 statistic and p-value    
+                * Compute X**2 statistic and p-value 
+
+* Anova(Analysis of Variance)
+    * Purpose: Compare the means of three or more groups 
+    * Hypothesis
+        * Null: all groups means are equal
+        Alternative: At least one group mean is different
+    * Example Use Case: Testing if the mean  score of students from three different schools differs
+
+* Understanding Correlation
+    * What is Correlation?
+        * Measure  the strength and direction of the  relationship between two variables
+        * Values range from 1 to 1, with 0 indicating no correlation 
+    * Types of Correlation
+        * Pearson Correlation Coefficient(r)
+        * Spearman Correlation Coefficient(p)  
+
+* Linear regression Basics
+    * What is Linear Regression?
+        * A Method to model the relationship between a dependent variable (y), and one or more independent vairable (x)
+
+* Interpreting Regression Results
+    * Slope:
+        * indicate the magnitude and direction of the relationship
+    * Intercept:
+        * Starting point od the regression line 
+    * R-Squared:
+        * Closer to 1 indicates better fit
+
+                
+
+
+
 
 
 
