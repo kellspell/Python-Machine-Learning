@@ -52,3 +52,19 @@ A personal study guide covering the mathematical and statistical foundations of 
   - Model Evaluation Metrics for Regression (MSE, MAE, RMSE)
   - Model Evaluation Metrics for Classification (Accuracy, Precision, Recall, F1-Score)
   - Introduction to Cross-Validation (K-Fold, Stratified K-Fold, LOOCV)
+
+- [Chapter 5 — Feature Engineering & Model Evaluation](Feature-Engineering-Model-Eval/README.md)
+  - What is Feature Engineering and Why it Matters
+  - Raw Data vs. Engineered Features
+  - Feature Engineering Techniques (Combining, Binning, Interaction, Aggregation, Polynomial)
+  - Scaling and Normalization (Min-Max Scaling, Standardization)
+  - Encoding Categorical Variables (One-Hot Encoding, Label Encoding)
+  - Dealing with High-Cardinality Categorical Features (Frequency & Target Encoding)
+  - When to Use Each Encoding Technique
+  - Feature Creation (Date-Time Features, Interaction Features, Aggregation Features)
+  - Feature Transformation (Log, Square Root, Polynomial)
+  - Evaluation Metrics for Regression (MAE, MSE, RMSE, R-Squared)
+  - Evaluation Metrics for Classification (Accuracy, Precision, Recall, F1-Score, ROC-AUC)
+  - When to Use Each Metric
+  - Cross-Validation (K-Fold, Stratified K-Fold, LOOCV)
+  - Hyperparameter Tuning (Grid Search, Random Search)
