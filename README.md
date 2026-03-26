@@ -68,3 +68,16 @@ A personal study guide covering the mathematical and statistical foundations of 
   - When to Use Each Metric
   - Cross-Validation (K-Fold, Stratified K-Fold, LOOCV)
   - Hyperparameter Tuning (Grid Search, Random Search)
+
+- [Chapter 6 — Machine Learning Algorithms & Ensemble Learning](Machine-Learn-Algo/ReadMe.md)
+  - Introduction to Ensemble Learning (Bagging, Boosting, Stacking)
+  - Why Ensembles Outperform Single Models (Bias-Variance-Robustness)
+  - Bagging (Bootstrap Aggregating) and the Detective Team Analogy
+  - Random Forest — Key Parameters, Advantages, and Feature Importance
+  - Boosting — The Sequential Learning Approach
+  - Gradient Boosting (Step-by-Step, Key Parameters, Regularization)
+  - XGBoost — Speed, Efficiency, and Advanced Hyperparameter Tuning
+  - LightGBM — Leaf-Wise Growth and Handling Large Datasets
+  - CatBoost — Native Categorical Feature Handling
+  - XGBoost vs LightGBM vs CatBoost — Detailed Comparison and Decision Guide
+  - Imbalanced Data — Techniques (SMOTE, Undersampling, Class Weights) and Evaluation Metrics
