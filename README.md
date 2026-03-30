@@ -81,3 +81,13 @@ A personal study guide covering the mathematical and statistical foundations of 
   - CatBoost — Native Categorical Feature Handling
   - XGBoost vs LightGBM vs CatBoost — Detailed Comparison and Decision Guide
   - Imbalanced Data — Techniques (SMOTE, Undersampling, Class Weights) and Evaluation Metrics
+
+- [Chapter 7 — Model Tuning & Bayesian Optimization](Model-Tuning-Optimization/README.md)
+  - Introduction to Bayesian Optimization and Why It Outperforms Grid/Random Search
+  - The Core Idea: Surrogate Model and Acquisition Function
+  - How Bayesian Optimization Works Step-by-Step (Random Init → Surrogate → Acquisition → Repeat)
+  - Prediction vs Uncertainty in the Surrogate Model
+  - Exploration vs Exploitation Trade-off
+  - Acquisition Function (Expected Improvement and variants)
+  - Hyperopt Library — Tree-Structured Parzen Estimator (TPE)
+  - Optuna Library — Define-by-Run API and Pruning
