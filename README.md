@@ -91,3 +91,15 @@ A personal study guide covering the mathematical and statistical foundations of 
   - Acquisition Function (Expected Improvement and variants)
   - Hyperopt Library — Tree-Structured Parzen Estimator (TPE)
   - Optuna Library — Define-by-Run API and Pruning
+
+- [Chapter 8 — Neural Networks & Deep Learning](Neural%20Networks,%20Deep%20Learning/README.md)
+  - What is Deep Learning and How it Differs from Classical ML
+  - Artificial Neural Networks (ANNs) — Structure, Neurons, Layers, Weights, Biases
+  - Forward Propagation — How Data Flows Through the Network
+  - Activation Functions — Sigmoid, Tanh, ReLU, Softmax, Linear
+  - Loss Functions — MSE, Cross-Entropy, Binary Cross-Entropy
+  - Backpropagation — Gradients, Chain Rule, and Weight Updates
+  - TensorFlow & Keras — Sequential and Functional API, Model Compilation, Training
+  - PyTorch — Tensors, Autograd, torch.nn, The 5-Step Training Loop
+  - Saving, Loading, and Evaluating Models in Both Frameworks
+  - PyTorch vs TensorFlow/Keras — Comparison and When to Use Each
