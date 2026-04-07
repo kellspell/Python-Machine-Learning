@@ -103,3 +103,14 @@ A personal study guide covering the mathematical and statistical foundations of 
   - PyTorch — Tensors, Autograd, torch.nn, The 5-Step Training Loop
   - Saving, Loading, and Evaluating Models in Both Frameworks
   - PyTorch vs TensorFlow/Keras — Comparison and When to Use Each
+
+- [Chapter 9 — Convolutional Neural Networks (CNNs)](CNN/READEME.md)
+  - What are CNNs and Why They Excel at Image Processing
+  - CNN Architecture — Convolutional Layer, ReLU, Pooling, Fully Connected Layer
+  - Kernel Size — Small vs Large Kernels and Feature Detection Trade-offs
+  - Strides — How Step Size Affects Output Dimensions
+  - Padding — Valid vs Same Padding and the Border Problem
+  - How Convolution Extracts Features — Edge, Texture, and Abstract Pattern Hierarchy
+  - Pooling Layers — Max Pooling vs Average Pooling and Dimensionality Reduction
+  - Translation Invariance, Parameter Efficiency, and Automatic Feature Extraction
+  - Real-World CNN Applications (Image Classification, Object Detection, etc.)
