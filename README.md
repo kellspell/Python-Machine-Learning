@@ -114,3 +114,16 @@ A personal study guide covering the mathematical and statistical foundations of 
   - Pooling Layers — Max Pooling vs Average Pooling and Dimensionality Reduction
   - Translation Invariance, Parameter Efficiency, and Automatic Feature Extraction
   - Real-World CNN Applications (Image Classification, Object Detection, etc.)
+
+- [Chapter 10 — RNNs & Sequence Modeling](RNNs-Sequence-Modeling/README.md)
+  - What is Sequence Modeling and Why Order Matters
+  - Recurrent Neural Networks (RNNs) — Structure, Hidden State, and Unrolled View
+  - Backpropagation Through Time (BPTT) — Forward Pass, Loss, and Gradient Flow
+  - Vanishing & Exploding Gradient Problems and Solutions (Gradient Clipping)
+  - LSTM — Forget Gate, Input Gate, Output Gate, and Cell State
+  - GRU — Update Gate, Reset Gate, and Candidate Hidden State
+  - GRU vs LSTM — Architecture, Speed, and When to Use Each
+  - Text Preprocessing — Tokenization, Stopwords, Stemming, Lemmatization
+  - Word Embeddings — Dense Vectors, Word2Vec, GloVe, Pre-trained Embeddings
+  - Sequence-to-Sequence Models — Encoder-Decoder Architecture
+  - Attention Mechanism — Context Vector, Score Functions, and Spotlight Analogy
