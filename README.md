@@ -127,3 +127,17 @@ A personal study guide covering the mathematical and statistical foundations of 
   - Word Embeddings — Dense Vectors, Word2Vec, GloVe, Pre-trained Embeddings
   - Sequence-to-Sequence Models — Encoder-Decoder Architecture
   - Attention Mechanism — Context Vector, Score Functions, and Spotlight Analogy
+
+- [Chapter 11 — Transformers & Attention](Transformers/README.md)
+  - The Transformer Architecture — Paradigm Shift from RNNs to Parallel Processing
+  - Self-Attention — Query, Key, Value Vectors and the Attention Formula
+  - Multi-Head Attention — Multiple Perspectives and What Each Head Learns
+  - Positional Encoding — Sinusoidal Formula and Linear Relationship Properties
+  - Feed-Forward Network — Position-Wise Deep Thinking Layer
+  - Residual Connections & Layer Normalization
+  - Encoder vs Decoder — Masked Attention and Teacher Forcing
+  - BERT — Bidirectional Pre-Training, MLM, and NSP Tasks
+  - GPT — Autoregressive Language Modeling and Text Generation
+  - Fine-Tuning Pre-Trained Models for Downstream Tasks
+  - BERT Variants — RoBERTa, DistilBERT, ALBERT, BERTweet
+  - Transfer Learning — Pre-Training and Fine-Tuning Spectrum
