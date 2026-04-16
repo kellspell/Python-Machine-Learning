@@ -141,3 +141,13 @@ A personal study guide covering the mathematical and statistical foundations of 
   - Fine-Tuning Pre-Trained Models for Downstream Tasks
   - BERT Variants — RoBERTa, DistilBERT, ALBERT, BERTweet
   - Transfer Learning — Pre-Training and Fine-Tuning Spectrum
+
+- [Chapter 12 — Transfer Learning & Fine-Tuning](Transfe-%20Learning-Fine-Tuning/README.md)
+  - Feature Extraction in Pre-Trained Models — What Each Layer Learns
+  - Choosing Layers to Fine-Tune — Freezing vs Unfreezing Strategies
+  - Best Practices — Dataset Size Guidelines, Learning Rate Rules, Discriminative Fine-Tuning
+  - Practical Examples by Task Type (Sentiment Analysis, Medical, Legal NLP)
+  - Domain Adaptation — Bridging the Domain Gap with Specialist Models
+  - Domain-Specific Vocabulary and Continued Pre-Training (DAPT)
+  - Challenges — Data Mismatch, Catastrophic Forgetting, Computational Constraints
+  - Solutions — Elastic Weight Consolidation, Data Augmentation, Domain-Specific Embeddings
